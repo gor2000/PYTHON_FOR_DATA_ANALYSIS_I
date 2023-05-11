@@ -1,7 +1,7 @@
 # Working with `pandas`
 
 [pandas](https://pandas.pydata.org/) is a fast, powerful, flexible and easy to use open source data analysis and
-manipulation tool, built on top of the Python programming language. [1]
+manipulation tool, built on top of the Python programming language [<sup>1</sup>](#examples).
 
 ![pandas](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png?20200209204934)
 
@@ -29,6 +29,6 @@ data = data.dropna()
 data.write_csv("./files/processed_data.csv")
 ```
 ---
-[1]: Go [here](https://pandas.pydata.org/docs/getting_started/index.html#getting-started) to start using pandas ↩️
+1. Go [here](https://pandas.pydata.org/docs/getting_started/index.html#getting-started) to start using pandas [↩️](#working-with-pandas)
 
 
